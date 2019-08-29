@@ -2,7 +2,13 @@
     <string name="app_name">AndroidNote</string>
 
     <string name="example">案例</string>
+
     <string name="example_text">TextView 富文本</string>
     <string name="example_text_html">一、html方式</string>
     <string name="example_text_spstring">二、SpannableString方式</string>
+
+    <string name="example_net_ip">设备IP查询</string>
+    <string name="example_net_ip_in">设备内网IP</string>
+    <string name="example_net_ip_out">设备外网IP</string>
+
 </resources>
