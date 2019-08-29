@@ -1,4 +1,4 @@
-package com.joh.androidnote;
+package com.joh.androidnote.richtext;
 
 import android.graphics.Color;
 import android.graphics.Typeface;
@@ -27,6 +27,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.joh.androidnote.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

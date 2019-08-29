@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".TextViewActivity" />
+        <activity android:name=".richtext.TextViewActivity" />
 
     </application>
 
