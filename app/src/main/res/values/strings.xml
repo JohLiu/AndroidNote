@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidNote</string>
+
+    <string name="example">案例</string>
+    <string name="example_text">TextView 富文本</string>
+    <string name="example_text_html">一、html方式</string>
+    <string name="example_text_spstring">二、SpannableString方式</string>
+</resources>
